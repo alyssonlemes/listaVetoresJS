@@ -1,0 +1,4 @@
+.includes = verifica se existe um valor no vetor
+.push = adiciona o valor no final do vetor 
+.indexOf = Retorna a posição de um elemnto no vetor, se não encontrar retorna -1
+
